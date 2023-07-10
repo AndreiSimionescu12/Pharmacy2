@@ -1,0 +1,7 @@
+C:\Users\Vlad\source\repos\proiect piu\Farmacie proiect Andrei\LibrarieModele\bin\Debug\LibrarieModele.dll.config
+C:\Users\Vlad\source\repos\proiect piu\Farmacie proiect Andrei\LibrarieModele\bin\Debug\LibrarieModele.dll
+C:\Users\Vlad\source\repos\proiect piu\Farmacie proiect Andrei\LibrarieModele\bin\Debug\LibrarieModele.pdb
+C:\Users\Vlad\source\repos\proiect piu\Farmacie proiect Andrei\LibrarieModele\obj\Debug\LibrarieModele.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\source\repos\proiect piu\Farmacie proiect Andrei\LibrarieModele\obj\Debug\LibrarieModele.dll
+C:\Users\Vlad\source\repos\proiect piu\Farmacie proiect Andrei\LibrarieModele\obj\Debug\LibrarieModele.pdb
+C:\Users\Vlad\source\repos\proiect piu\Farmacie proiect Andrei\LibrarieModele\obj\Debug\LibrarieModele.csproj.AssemblyReference.cache

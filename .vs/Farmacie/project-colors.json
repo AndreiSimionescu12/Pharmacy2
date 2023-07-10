@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e2f2ee04-de86-4394-83f2-a6648fdd7857": {
+      "ProjectGuid": "e2f2ee04-de86-4394-83f2-a6648fdd7857",
+      "DisplayName": "InterfataUtilizator_WindowsForms",
+      "ColorIndex": 0
+    },
+    "6b71d758-578c-43c0-abec-580ca99449fd": {
+      "ProjectGuid": "6b71d758-578c-43c0-abec-580ca99449fd",
+      "DisplayName": "NivelAccesDate",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
